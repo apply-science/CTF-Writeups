@@ -1,11 +1,10 @@
 ### *Python wrangling*
 1. Download all three files in the description 
-> wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/ende.py
-
-> wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/pw.txt
-
-> wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/flag.txt.en
-
+```
+wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/ende.py
+wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/pw.txt
+wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/flag.txt.en
+```
 2. Open and investigate ende.py or the lazy (insecure) way run it
 3. This tells you that ende.py wants a operator and a file
 4. Print the password
